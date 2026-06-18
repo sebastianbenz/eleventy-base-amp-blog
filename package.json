@@ -24,7 +24,7 @@
     "@11ty/eleventy-plugin-syntaxhighlight": "3.0.6",
     "@ampproject/eleventy-plugin-amp": "0.5.4",
     "luxon": "1.25.0",
-    "markdown-it": "12.0.4",
+    "markdown-it": "14.2.0",
     "markdown-it-anchor": "7.0.0"
   }
 }
